@@ -1,0 +1,6 @@
+[submodule "cyan-api"]
+	path = cyan-api
+	url = https://github.com/rafacdomin/cyan-api
+[submodule "cyan-web"]
+	path = cyan-web
+	url = https://github.com/rafacdomin/cyan-web
